@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # ========== КОНФИГУРАЦИЯ ==========
-BOT_TOKEN = ""
+BOT_TOKEN = "8933842932:AAFnqdJAKkHJ8FXmMsedo_w4LlQWBSdYMLU"
 ADMIN_PASSWORD = "1873"
 SUPPORT_USERNAME = "@Kyniks_me"
 CHAT_USERNAME = "@chatmansorybotwt"
